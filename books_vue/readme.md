@@ -1,1 +1,1 @@
-# vue3.0,提供flask接口
+# vue3.0,提供flask接口.
